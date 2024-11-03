@@ -26,6 +26,9 @@ ensure that the docker file is running using
 the project will be running 
 `http://localhost:7860`
 
+## Colab
+the project in colab [link](https://drive.google.com/file/d/1hSn-q2-XWayR34cp-tVFUYhVFaHqtT_q/view?usp=sharing)
+
 
 
 
