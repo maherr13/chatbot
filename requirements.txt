@@ -1,0 +1,7 @@
+torch
+gradio==3.48.0
+bitsandbytes
+accelerate
+llama-index
+llama-index-embeddings-huggingface
+
